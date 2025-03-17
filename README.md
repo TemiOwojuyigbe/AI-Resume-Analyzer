@@ -9,11 +9,12 @@ This project was built to help job seekers improve their resumes so they have a 
 
 I felt this was an important tool because:
 
-    Many qualified applicants are rejected simply because their resume lacks the right keywords.
-    Job descriptions are often complex and vague, making it hard for applicants to tailor their resumes effectively.
-    AI can level the playing field by identifying missing skills and optimizing resumes for better results.
+Many qualified applicants are rejected simply because their resume lacks the right keywords.
+Job descriptions are often complex and vague, making it hard for applicants to tailor their resumes effectively.
+AI can level the playing field by identifying missing skills and optimizing resumes for better results.
 
-With this tool, users can: Upload their resume (PDF or DOCX)
+With this tool, users can: 
+Upload their resume (PDF or DOCX)
 Get AI-powered feedback on how to improve it
 See missing keywords and relevant suggestions based on the job description
 
@@ -23,3 +24,5 @@ Build a Frontend: A React app to allow easy drag-and-drop uploads.
 Enhance AI Suggestions: Improve keyword detection & formatting tips.
 Support for More File Types: Add support for TXT and RTF formats.
 Save User Data: Store past resume analyses for users.
+
+
